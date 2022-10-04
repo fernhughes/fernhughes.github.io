@@ -1,9 +1,9 @@
-title: test title
+title: Fern Hughes
 author:
   name: Fern Hughes
   email: f.hughes19@imperial.ac.uk
 description: > # this means to ignore newlines until "show_excerpts:"
-  Description to be completed
+  
 show_excerpts: false # set to true to show excerpts on the homepage
 logo: fern.jpg
 
