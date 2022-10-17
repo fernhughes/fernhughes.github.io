@@ -1,7 +1,5 @@
-# Fern Hughes
-
 *My website is currently under construction.*
 
-Final year PhD biomathematics student under the supervision of Dr Philipp Thomas and Dr Alexis R. Barr at Imperial College London.
+I am a final year PhD biomathematics student under the supervision of Dr Philipp Thomas and Dr Alexis R. Barr at Imperial College London. In my PhD, I use stochastic models in combination with live cell imaging data to decode interdivision time heterogeneity and reveal the factors that drive the cell cycle.
 
-I am seeking employment to start in September 2023 - please get in touch if you know of any opportunities.
+As I am approaching end of my PhD, I am starting to look for my next position, and I am open to both Postdocs and careers outside academic. If you have any opportunities in mind, please get in touch!
